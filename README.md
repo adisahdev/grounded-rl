@@ -1,5 +1,7 @@
 # ViGoRL: Visually Grounded Reinforcement Learning
 
+## README_SFT.md contains description for the made changes to run SFT experiments
+
 This repository contains the official code implementation for the paper:
 
 > **Grounded Reinforcement Learning for Visual Reasoning**
